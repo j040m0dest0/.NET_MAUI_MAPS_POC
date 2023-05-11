@@ -24,15 +24,20 @@ namespace MapsApi.Controllers
             return Ok(historico);
         }
 
-        [HttpPost("GetHistorico")]
-        public async Task<ActionResult<List<Historico>>> AddHistorico()
+        [HttpPost("AddHistorico")]
+        public async Task<int> AddHistorico(Historico hist)
         {
-            var historico = await _appdbContext.Historicos.ToListAsync();
+             await _appdbContext.Historicos.AddAsync(hist);
 
-            return Ok(historico);
+            var result = _appdbContext.SaveChanges();
+
+            if (result < 0) return result;
+            
+
+            return result;
         }
 
-        [HttpPut("GetHistorico")]
+        [HttpPut("UpdateHistorico")]
         public async Task<ActionResult<List<Historico>>> UpdateHistorico()
         {
             var historico = await _appdbContext.Historicos.ToListAsync();
@@ -40,7 +45,7 @@ namespace MapsApi.Controllers
             return Ok(historico);
         }
 
-        [HttpDelete("GetHistorico")]
+        [HttpDelete("DeleteHistorico")]
         public async Task<ActionResult<List<Historico>>> DeleteHistorico()
         {
             var historico = await _appdbContext.Historicos.ToListAsync();
