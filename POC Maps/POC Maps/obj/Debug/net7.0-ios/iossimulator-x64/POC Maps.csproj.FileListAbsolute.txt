@@ -1,0 +1,46 @@
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.stamp
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.stamp
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.stamp
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedContentPath.items
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\POC Maps.csproj.AssemblyReference.cache
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\POC Maps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\POC Maps.AssemblyInfoInputs.cache
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\POC Maps.AssemblyInfo.cs
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\POC Maps.csproj.CoreCompileInputs.cache
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\POC Maps.dll
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\refint\POC Maps.dll
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\POC Maps\obj\Debug\net7.0-ios\iossimulator-x64\POC Maps.pdb

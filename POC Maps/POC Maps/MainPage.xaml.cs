@@ -8,17 +8,19 @@ public partial class MainPage : ContentPage
 	{
 		InitializeComponent();
 	}
+    public async Task NavigateToBuilding25()
+    {
+        var location = new Location(47.645160, -122.1306032);
+        var options = new MapLaunchOptions { Name = "Microsoft Building 25" };
 
-	private void OnCounterClicked(object sender, EventArgs e)
-	{
-		count++;
-
-		if (count == 1)
-			CounterBtn.Text = $"Clicked {count} time";
-		else
-			CounterBtn.Text = $"Clicked {count} times";
-
-		SemanticScreenReader.Announce(CounterBtn.Text);
-	}
+        try
+        {
+            await Map.Default.OpenAsync(location, options);
+        }
+        catch (Exception ex)
+        {
+            // No map application available to open
+        }
+    }
 }
 
