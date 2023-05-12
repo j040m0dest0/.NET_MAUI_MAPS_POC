@@ -1,0 +1,1 @@
+C:\Users\joaom\source\repos\.NET_MAUI_MAPS_POC\POC Maps\MapsApp\MapsApp.csproj;x64

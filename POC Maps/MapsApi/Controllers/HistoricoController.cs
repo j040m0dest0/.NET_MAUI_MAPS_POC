@@ -27,7 +27,7 @@ namespace MapsApi.Controllers
         [HttpPost("AddHistorico")]
         public async Task<int> AddHistorico(Historico hist)
         {
-             await _appdbContext.Historicos.AddAsync(hist);
+          //   await _appdbContext.Historicos.AddAsync(hist);
 
             var result = _appdbContext.SaveChanges();
 
