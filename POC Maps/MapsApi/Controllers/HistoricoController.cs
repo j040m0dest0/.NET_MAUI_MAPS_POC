@@ -1,4 +1,5 @@
-﻿using MapsApi.Models;
+﻿using MapsApi.DTO;
+using MapsApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -25,9 +26,17 @@ namespace MapsApi.Controllers
         }
 
         [HttpPost("AddHistorico")]
-        public async Task<int> AddHistorico(Historico hist)
+        public async Task<int> AddHistorico( int latitude, int longitude)
         {
-          //   await _appdbContext.Historicos.AddAsync(hist);
+            //   await _appdbContext.Historicos.AddAsync(hist);
+
+            var hist = new Historico()
+            {
+                Lat = latitude,
+                Long = longitude
+            };
+
+            _appdbContext.Add(hist);
 
             var result = _appdbContext.SaveChanges();
 

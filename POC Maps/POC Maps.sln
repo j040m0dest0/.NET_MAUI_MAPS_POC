@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapsApi", "MapsApi\MapsApi.csproj", "{6466A1DC-F495-403E-B017-0F08A7068DB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapsApp", "MapsApp\MapsApp.csproj", "{0D8372FF-BD2A-4929-A23A-DDAB31F1437C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +15,6 @@ Global
 		{6466A1DC-F495-403E-B017-0F08A7068DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6466A1DC-F495-403E-B017-0F08A7068DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6466A1DC-F495-403E-B017-0F08A7068DB8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0D8372FF-BD2A-4929-A23A-DDAB31F1437C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0D8372FF-BD2A-4929-A23A-DDAB31F1437C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0D8372FF-BD2A-4929-A23A-DDAB31F1437C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{0D8372FF-BD2A-4929-A23A-DDAB31F1437C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0D8372FF-BD2A-4929-A23A-DDAB31F1437C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0D8372FF-BD2A-4929-A23A-DDAB31F1437C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
