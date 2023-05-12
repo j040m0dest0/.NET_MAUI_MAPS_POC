@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\POC Maps"
+    "\\POC Maps",
+    "\\POC Maps\\MapsApp"
   ],
-  "SelectedNode": "\\POC Maps\\POC Maps.sln",
+  "SelectedNode": "\\POC Maps\\MapsApp\\MapsApp.csproj",
   "PreviewInSolutionExplorer": false
 }
