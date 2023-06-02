@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaom\\source\\repos\\.NET_MAUI_MAPS_POC\\POC Maps\\MapsApi\\MapsApi.csproj": {}
+    "C:\\Users\\joaom\\source\\repos\\API_TCC_GUS\\POC Maps\\MapsApi\\MapsApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaom\\source\\repos\\.NET_MAUI_MAPS_POC\\POC Maps\\MapsApi\\MapsApi.csproj": {
+    "C:\\Users\\joaom\\source\\repos\\API_TCC_GUS\\POC Maps\\MapsApi\\MapsApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaom\\source\\repos\\.NET_MAUI_MAPS_POC\\POC Maps\\MapsApi\\MapsApi.csproj",
+        "projectUniqueName": "C:\\Users\\joaom\\source\\repos\\API_TCC_GUS\\POC Maps\\MapsApi\\MapsApi.csproj",
         "projectName": "MapsApi",
-        "projectPath": "C:\\Users\\joaom\\source\\repos\\.NET_MAUI_MAPS_POC\\POC Maps\\MapsApi\\MapsApi.csproj",
+        "projectPath": "C:\\Users\\joaom\\source\\repos\\API_TCC_GUS\\POC Maps\\MapsApi\\MapsApi.csproj",
         "packagesPath": "C:\\Users\\joaom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaom\\source\\repos\\.NET_MAUI_MAPS_POC\\POC Maps\\MapsApi\\obj\\",
+        "outputPath": "C:\\Users\\joaom\\source\\repos\\API_TCC_GUS\\POC Maps\\MapsApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,6 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -87,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

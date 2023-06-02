@@ -3,7 +3,7 @@ using MapsApi.Models;
 
 namespace MapsApi.Interface
 {
-    public interface IGeoLocationInterface
+    public interface IGeoLocationInterfaces
     {
         Task<Historico> AddHistorico(GeoLocationDto geoLocation);
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E3l3r5mW4/xae/59FgvoJM4XTPpIv76GIf646Q8V91tSwkFbdv5T+y8kHpaH72ER9zOfxrBIZNOQyx0HYfpBpw==",
+  "dgSpecHash": "yCEdJe6e/HY/d5MYbXbyCwkqH1RiStO9RAaz97AEU7yw8AhFw3P7x5nEIHnN4C0f+HTR7k7yaTqhEo1FoGl8Ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaom\\source\\repos\\.NET_MAUI_MAPS_POC\\POC Maps\\MapsApi\\MapsApi.csproj",
+  "projectFilePath": "C:\\Users\\joaom\\source\\repos\\API_TCC_GUS\\POC Maps\\MapsApi\\MapsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaom\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -4,7 +4,7 @@ using MapsApi.Models;
 
 namespace MapsApi.Application
 {
-    public class GeolocationApplication : IGeoLocationInterface
+    public class GeolocationApplication : IGeoLocationInterfaces
     {
         private readonly PocNetMauiContext _context;
 
